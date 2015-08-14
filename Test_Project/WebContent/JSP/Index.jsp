@@ -5,7 +5,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link href="bootstrap/css/bootstrap.min.css" rel=”stylesheet” type=”text/css” />
+<link href="bootstrap/css/bootstrap-theme.css" rel=”stylesheet” type=”text/css” />
+<link href="bootstrap/css/bootstrap-theme.min.css" rel=”stylesheet” type=”text/css” />
+<link href="bootstrap/css/bootstrap.css" rel=”stylesheet” type=”text/css” />
+
+<script type=”text/javascript” src=”bootstrap/js/bootstrap.js”></script>
 <script type=”text/javascript” src=”bootstrap/js/bootstrap.min.js”></script>
+<script type=”text/javascript” src=”bootstrap/js/jquery-1.7.1.min.js”></script>
+<script type=”text/javascript” src=”bootstrap/js/jquery-2.1.4.min.js”></script>
+<script type=”text/javascript” src=”bootstrap/js/jquery-ui-1.8.18.custom.min.js”></script>
+<script type=”text/javascript” src=”bootstrap/js/npm.js”></script>
+
 <title>Index</title>
 </head>
 <body>
